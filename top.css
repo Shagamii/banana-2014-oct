@@ -223,3 +223,8 @@
   background-color: #e3ead8;
   box-shadow: 0px 2px 5px rgba(34,50,24,0.1) inset;
 }
+
+.footer .footer-info{
+  color: #777;
+  padding: 8px 0px;
+}
