@@ -52,4 +52,9 @@
   font-size: 16px;
   text-align: center;
   padding: 18px 0px;
+  opacity: 0.5;
+}
+
+.top-nav .nav-link:hover{
+  opacity: 1;
 }
