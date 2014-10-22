@@ -44,3 +44,12 @@
 .top-nav li{
   float: left;
 }
+
+.top-nav .nav-link{
+  color: white;
+  display: block;
+  width: 160px;
+  font-size: 16px;
+  text-align: center;
+  padding: 18px 0px;
+}
