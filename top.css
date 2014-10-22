@@ -74,3 +74,8 @@
   /* W3C Markup, IE10 Release Preview */
   background-image: linear-gradient(to top, #856727 0%, #6A511F 100%);
 }
+
+.top-nav li.logo img{
+  width: 130px;
+}
+
