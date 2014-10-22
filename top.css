@@ -79,3 +79,9 @@
   width: 130px;
 }
 
+.top-nav .nav-logo{
+  width: 160px;
+  padding: 14px 14px 14px 0px;
+  display: block;
+  text-align: center;
+}
