@@ -128,3 +128,9 @@
   /* W3C Markup, IE10 Release Preview */
   background-image: linear-gradient(to bottom, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
 }
+
+.title-back .title{
+  color: #fff;
+  font-size: 18px;
+  padding: 6px 17px;
+}
