@@ -154,3 +154,7 @@
   font-size: 12px;
   margin: 0px 10px;
 }
+
+.box-content ul li{
+  margin-bottom: 20px;
+}
