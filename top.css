@@ -167,4 +167,5 @@
 .box-small{
   width: 330px;
   margin-right: 40px;
+  float: left;
 }
