@@ -236,3 +236,16 @@
 .footer .footer-info strong{
   width: 180px;
 }
+
+.footer .content{
+  position: relative;
+  height: 100%;
+}
+
+.copyright{
+  text-align: center;
+  color: #999;
+  width: 100%;
+  bottom: 10px;
+  position: absolute;
+}
