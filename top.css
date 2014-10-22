@@ -112,6 +112,7 @@
 
 .box{
   background-color: #fff;
+  margin-bottom: 20px;
 }
 
 .title-back{
@@ -133,4 +134,9 @@
   color: #fff;
   font-size: 18px;
   padding: 6px 17px;
+}
+
+.box-content{
+  padding: 20px 17px;
+  height: 250px;
 }
