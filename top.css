@@ -228,3 +228,7 @@
   color: #777;
   padding: 8px 0px;
 }
+
+.footer .footer-info strong, .footer .footer-info .info{
+  float: left;
+}
