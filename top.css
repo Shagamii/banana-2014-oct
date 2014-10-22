@@ -140,3 +140,17 @@
   padding: 20px 17px;
   height: 250px;
 }
+
+.box-content ul li .date{
+  color: #999;
+}
+
+.box-content ul li .tag{
+  background-color: #90bc35;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  margin: 0px 10px;
+}
