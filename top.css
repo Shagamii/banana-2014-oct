@@ -159,3 +159,12 @@
 .box-content ul li{
   margin-bottom: 20px;
 }
+
+.box-large{
+  width: 700px;
+}
+
+.box-small{
+  width: 330px;
+  margin-right: 40px;
+}
