@@ -184,6 +184,10 @@
   float: left;
 }
 
+.box-small.service{
+  margin-right: 0px;
+}
+
 .box-small .box-content img{
   width: 100%;
   border-radius: 4px;
