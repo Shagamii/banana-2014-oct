@@ -24,5 +24,10 @@ ul{
 }
 
 a{
+  color: #316eb6;
   text-decoration: none
+}
+
+a:hover{
+  color: #1d487b;
 }
