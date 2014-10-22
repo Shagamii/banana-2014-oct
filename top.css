@@ -199,6 +199,14 @@
   margin-left: 40px;
 }
 
+.main-content .right-content img{
+  width: 100%;
+  border: 5px solid #EDCA2F;
+  box-shadow: 0px 1px 3px rgba(34,50,24,0.6);
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
 .main-content .left-content{
   float: left;
   width: 700px;
