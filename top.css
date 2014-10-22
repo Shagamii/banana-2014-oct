@@ -6,3 +6,8 @@
   background-position: center;
   background-size: cover;
 }
+
+.content{
+  width: 980px;
+  margin: 0 auto;
+}
