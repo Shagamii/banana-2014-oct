@@ -7,6 +7,8 @@ html, body{
 
 body{
   background-color: #f4f9ea;
+  font-size: 14px;
+  color: #555;
 }
 
 h1, h2, h3, h4, h5, h6{
