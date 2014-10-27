@@ -1,8 +1,24 @@
-/*----about.css-----*/
-
+/*---------------------------------------------
+                   top-nav
+---------------------------------------------*/
 .top-nav--about{
   box-shadow: 0px 3px 3px rgba(52,85,43,0.75);
   position: absolute;
   width: 100%;
   top: 0;
+}
+
+/*---------------------------------------------
+                 main-content
+---------------------------------------------*/
+.main-content .left-content{
+  float: left;
+  width: 240px;
+  margin-left: 0px;
+}
+
+.main-content .right-content{
+  float: left;
+  width: 700px;
+  margin-left: 40px;
 }
