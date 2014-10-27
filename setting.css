@@ -33,3 +33,8 @@ a{
 a:hover{
   color: #1d487b;
 }
+
+.content{
+  width: 980px;
+  margin: 0 auto;
+}
