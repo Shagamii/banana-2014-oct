@@ -26,7 +26,7 @@
 /*---------------------------------------------
                     box
 ---------------------------------------------*/
-.box-large.ideal .box-content{
+.box-large.ideal .box-content, .box-large.aboutus .box-content{
   height: auto;
   overflow: initial;
 }
@@ -41,4 +41,8 @@
 .ideal .box-content p{
   padding: 0px 60px;
   line-height: 1.8;
+}
+
+.aboutus .box-content{
+  padding: 20px 28px 35px;
 }
