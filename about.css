@@ -30,3 +30,15 @@
   height: auto;
   overflow: initial;
 }
+
+.ideal .box-content .motto{
+  font-size: 25px;
+  margin: 20px 0px;
+  color: #95c530;
+  font-weight: bold;
+}
+
+.ideal .box-content p{
+  padding: 0px 60px;
+  line-height: 1.8;
+}
