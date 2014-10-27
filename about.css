@@ -22,3 +22,11 @@
   width: 700px;
   margin-left: 40px;
 }
+
+/*---------------------------------------------
+                    box
+---------------------------------------------*/
+.box-large.ideal .box-content{
+  height: auto;
+  overflow: initial;
+}
