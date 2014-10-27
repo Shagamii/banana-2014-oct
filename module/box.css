@@ -1,0 +1,82 @@
+.box{
+  background-color: #fff;
+  box-shadow: 0px 1px 3px rgba(34,50,24,0.6);
+  margin-bottom: 20px;
+}
+
+.title-back{
+  /* IE10 Consumer Preview */
+  background-image: -ms-linear-gradient(top, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
+  /* Mozilla Firefox */
+  background-image: -moz-linear-gradient(top, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
+  /* Opera */
+  background-image: -o-linear-gradient(top, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
+  /* Webkit (Safari/Chrome 10) */
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #EDCA2F), color-stop(0.5, #EDCA2F), color-stop(0.501, #DDBE34), color-stop(1, #DDBE34));
+  /* Webkit (Chrome 11+) */
+  background-image: -webkit-linear-gradient(top, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
+  /* W3C Markup, IE10 Release Preview */
+  background-image: linear-gradient(to bottom, #EDCA2F 0%, #EDCA2F 50%, #DDBE34 50.1%, #DDBE34 100%);
+}
+
+.title-back .title{
+  color: #fff;
+}
+
+
+.title-back h2{
+  font-size: 18px;
+  padding: 6px 17px;
+}
+
+.title-back h3{
+  font-size: 16px;
+  padding: 6px 17px;
+}
+
+.box-content{
+  padding: 20px 17px;
+}
+
+.box-content ul li .date{
+  color: #999;
+}
+
+.box-content ul li .tag{
+  background-color: #90bc35;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  margin: 0px 10px;
+}
+
+.box-content ul li{
+  margin-bottom: 20px;
+}
+
+.box-large{
+  width: 700px;
+}
+
+.box-large .box-content{
+  height: 250px;
+  overflow: scroll;
+}
+
+.box-small{
+  width: 330px;
+  height: 350px;
+  margin-right: 40px;
+  float: left;
+}
+
+.box-small.service{
+  margin-right: 0px;
+}
+
+.box-small .box-content img{
+  width: 100%;
+  border-radius: 4px;
+}
