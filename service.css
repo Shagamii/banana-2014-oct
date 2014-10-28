@@ -35,3 +35,13 @@
   height: auto;
   overflow: initial;
 }
+
+.service .box-content{
+  padding: 20px 28px 35px;
+}
+
+.service .box-content h3{
+  color: #95c530;
+  border-bottom: 1px dashed #95c530;
+  padding-bottom: 5px;
+}
