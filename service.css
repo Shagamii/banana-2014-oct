@@ -45,3 +45,12 @@
   border-bottom: 1px dashed #95c530;
   padding-bottom: 5px;
 }
+
+.media{
+  margin: 20px 0px;
+}
+
+.media, .media-content{
+  overflow: hidden;
+  zoom: 1;
+}
