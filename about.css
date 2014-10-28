@@ -46,3 +46,17 @@
 .aboutus .box-content{
   padding: 20px 28px 35px;
 }
+
+.aboutus .box-content table{
+  width: 100%;
+  border-collapse: collapse;
+}
+.aboutus .box-content th{
+  padding: 15px 10px;
+  text-align: left;
+  border-bottom: 1px dashed #95c530;
+}
+.aboutus .box-content td{
+  padding: 15px 0px;
+  border-bottom: 1px dashed #95c530;
+}
