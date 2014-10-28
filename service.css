@@ -54,3 +54,14 @@
   overflow: hidden;
   zoom: 1;
 }
+
+.media .image{
+  float: left;
+  margin-right: 30px;
+  width: 200px;
+}
+
+.media .image img{
+  border: none;
+  width: 100%;
+}
