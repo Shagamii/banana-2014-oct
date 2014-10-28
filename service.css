@@ -10,3 +10,18 @@
   width: 100%;
   top: 0;
 }
+
+/*---------------------------------------------
+                 main-content
+---------------------------------------------*/
+.main-content .left-content{
+  float: left;
+  width: 240px;
+  margin-left: 0px;
+}
+
+.main-content .right-content{
+  float: left;
+  width: 700px;
+  margin-left: 40px;
+}
