@@ -65,3 +65,15 @@
   border: none;
   width: 100%;
 }
+
+.media-content .service-name{
+  font-size: 18px;
+  padding: 8px 15px;
+  color: #fff;
+  background-color: #95c530;
+  font-weight: bold;
+}
+
+.media-content p{
+  padding: 0px 10px;
+}
