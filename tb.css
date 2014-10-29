@@ -21,6 +21,7 @@
 
 .tb nav.navbar.navbar-default{
   border: none;
+  border-radius: 0px;
 }
 
 .tb nav.navbar .dropdown .dropdown-toggle{
