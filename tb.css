@@ -79,7 +79,7 @@
   display: none;
 }
 
-#bs-example-navbar-collapse-1 > ul > li.dropdown.open > a{
+#bs-example-navbar-collapse-1.in > ul > li.dropdown.open > a{
   margin-bottom: 0px;
   background-color: transparent;
   background-image: initial;
