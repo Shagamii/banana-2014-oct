@@ -3,6 +3,7 @@
 ---------------------------------------------*/
 
 .tb nav.navbar{
+  margin-bottom: 0px;
   /* IE10 Consumer Preview */
   background-image: -ms-linear-gradient(top, #856727 0%, #6A511F 100%);
   /* Mozilla Firefox */
